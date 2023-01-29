@@ -57,7 +57,8 @@ During the first quarter, you need to submit a Program of Study form to COEN Pee
 ## Part 1. Foundation Courses: COEN 912/920C/921C (for students w/ non-CS backgrounds)
 - These three courses don't count towards the 46 credit units of graduation requirements. You can waive these three courses 1) if you can show you've taken similar courses in your undergrad transcript, or 2) take simlar courses in approved local community colleges. If you failed to waive them, you have to take them at SCU and pay extra tuition.
 - If you decide to take them at SCU, the instructor of these three courses is the same professor: C. Fussell
-- ${\color{red}You\ are\ asked\ to\ complete\ these\ three\ foundation\ courses\ within\ the\ first\ three\ quarter\ of\ study,\ but\ some\ of\ them\ are\ not\ offered\ each\ quarter}$
+- ${\color{red}You\ are\ asked\ to\ complete\ these\ three\ foundation\ courses}$  
+${within\ the\ first\ three\ quarter\ of\ study,\ but\ some\ of\ them\ are\ not\ offered\ each\ quarter}
 
 
 ### COEN920C Embedded Systems and Assembly Language
