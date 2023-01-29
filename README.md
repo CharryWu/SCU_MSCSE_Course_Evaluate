@@ -1,10 +1,11 @@
+This repo is an English translation of https://github.com/theRealCourseEvaluationSCU/SCU_MSCSE_Course_Evaluate  
 Language: English | [中文（简体）](./README.zh-cn.md)  
 Last Edited: Jan 24, 2023  
 <img alt="SCU LOGO" src="./Mission-Horizontal-PMS201.png" style="max-width: 324px"/>
 
 ## About This Repo
 - This GitHub repo aims to provide **honest**, **anonymous** reviews on MSCSE courses/professors, from Santa Clara University's graduate students. The purpose of this repo is to offer new/current graduate students (all major backgrounds, including non-CS) guidance on course enrollment and give prospective students insights into SCU's MSCSE program. If you think this repo is helpful, you may add this repo to your bookmark and **star this repo (click star on upper right corner)**.
-- This is a WIP repo: the information listed below don't cover all courses, and there may be inaccuracies. If the courses you have attended are not listed, you are welcomed to share your opinions and insights with us! You can create a **new Issue** in this repo, titled [course number, professor], and your review should include four parts: [Course workload and difficulty, Grading (if it's curved, how much), professor review, and whether it is recommended]. You can also send an email to [scu_mscse_course_rating@proton.me](mailto:scu_mscse_course_rating@proton.me) to contact the author. You can either send your review in text, or via a scheduled zoom meeting. All reviews will be posted **anonymously**.
+- This is a WIP repo: the information listed below don't cover all courses, and there may be inaccuracies. If the courses you have attended are not listed, you are welcomed to share your opinions and insights with us! You can create a **new Issue** in this repo, titled [course number, professor], and your review should include four parts: [Course workload and difficulty, Grading (if it's curved, how much), professor review, and whether it is recommended]. You can also send an email to [scucourseeval@gmail.com](mailto:scucourseeval@gmail.com) to contact the author. You can either send your review in text, or via a scheduled zoom meeting. All reviews will be posted **anonymously**.
 - Thanks to all the friends who provided contents for or shared this Repo!
 
 
@@ -18,7 +19,7 @@ Last Edited: Jan 24, 2023
 ## Must-knows of Course Enrollment on eCampus
 - The time of course enrollment for the next quarter is usually the fifth week of the current quarter (first batch) and the first two weeks after the start of the quarter (second batch). Each student will be assigned a fixed interval for their first batch enrollment (the system will send an email notification). Generally, seats of popular courses would be filled early during first batch enrollment, so you need to pay special attention to your assigned enrollment time.
 > __Note__ Assigned enrollment time: old students > new students. The more credits you have taken as an SCU student, the earlier your assigned enrollment time. However, according to anonymous reports from multiple students, given the same credits, the assigned enrollment time will be arranged in alphabetical order according to name order. The official announcement is that students are randomly assigned in a tie situation.
-- ${\color{red}$50 Drop/Swap Penalty}$: It is free to drop/swap courses from the first batch enrollment to one week before first day of class (quarter start). After that, each course drop/swap costs an additional ${\color{red}$50}$: https://www.scu.edu/engineering/graduate/academic-calendar/. **This only applies to graduate engineering students.**
+- ${\color{red}$50\ Drop/Swap\ Penalty}$: It is free to drop/swap courses from the first batch enrollment to one week before first day of class (quarter start). After that, each course drop/swap costs an additional ${\color{red}$50}$: https://www.scu.edu/engineering/graduate/academic-calendar/. **This only applies to graduate engineering students.**
 - ${\color{red}Deadline}$: You may receive a **100%** refund if you drop a class **before the Sunday of the first week of class**, only **50%** before **the Sunday of the second week**, and only **25%** in the third week.
 - The default max credits units a student can enroll each quarter is **10 credit units**, which is equivalent to two 4-credits classes + one 2-credits class. If you need to enroll more than 10 units, you need to consult your assigned academic advisor in advance, fill in the overload form and submit it to the peer advisor: https://www.scu.edu/engineering/current-student-resources/current-graduate-students/forms /. **New students cannot apply for overload for their first quarter of study**
 - You can view course information on CourseAvail https://www.scu.edu/apps/courseavail/?p=schedule and enroll on eCampus -> SCU Manage Class
@@ -56,7 +57,7 @@ During the first quarter, you need to submit a Program of Study form to COEN Pee
 ## Part 1. Foundation Courses: COEN 912/920C/921C (for students w/ non-CS backgrounds)
 - These three courses don't count towards the 46 credit units of graduation requirements. You can waive these three courses 1) if you can show you've taken similar courses in your undergrad transcript, or 2) take simlar courses in approved local community colleges. If you failed to waive them, you have to take them at SCU and pay extra tuition.
 - If you decide to take them at SCU, the instructor of these three courses is the same professor: C. Fussell
-- ${\color{red}You are asked to complete these three foundation courses within the first three quarter of study, but some of them are not offered each quarter}$
+- ${\color{red}You\ are\ asked\ to\ complete\ these\ three\ foundation\ courses\ within\ the\ first\ three\ quarter\ of\ study,\ but\ some\ of\ them\ are\ not\ offered\ each\ quarter}$
 
 
 ### COEN920C Embedded Systems and Assembly Language
